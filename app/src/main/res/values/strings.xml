@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">SoftLearn30</string>
+    <string name="top_bar">The 30-Day Well Challenge</string>
+
+    <string name="day1">Day 1</string>
+    <string name="title1">Write Your Way to Success</string>
+    <string name="description1">Your first Well challenge is to write or type a letter to yourself about what a successful Well Challenge means to you. Why did you sign up? Make a commitment to yourself, in writing, to complete each task.</string>
+
+    <string name="day2">Day 2</string>
+    <string name="title2">6-Minute Mindful Workout</string>
+    <string name="description2">First, take a deep breath. Now think of a person you love and the reason you want to live a healthier life. Be mindful of how your body feels now and how you want to feel every day.</string>
+
+    <string name="day3">Day 3</string>
+    <string name="title3">Refresh: Tooth Brushing Meditation</string>
+    <string name="description3">Today when you brush your teeth, try this challenge:
+
+When you’re ready to start brushing, close your eyes.
+
+Now listen to the sound of the brush on your teeth, taste the toothpaste.
+
+Stay present.
+
+Now, slowly, stand on one leg and keep brushing.
+
+You might wobble, but try to stay present and focus on the moment — the sounds, tastes and feelings throughout your body. Feel the ground beneath your foot. Feel your strength. Be present.</string>
+
+    <string name="day4">Day 4</string>
+    <string name="title4">Connect: Reinvent ‘Date’ Night</string>
+    <string name="description4">To start building stronger connections in your life, plan an unusual date this weekend with your romantic partner. If you are single, choose a close friend. The goal is to do something new and different that sounds fun to both of you.</string>
+
+    <string name="day5">Day 5</string>
+    <string name="title5">Move: 6-Minute Reward Workout</string>
+    <string name="description5">Congratulations! Today’s workout with Gillian is the last Move workout of the first week. One way to build a regular habit is to reward yourself every time you complete a task. A fruit smoothie or glass of chocolate milk are rewards that will also replenish your body. </string>
+
+    <string name="day6">Day 6</string>
+    <string name="title6">Nourish: Go-To Snack</string>
+    <string name="description6">Today your challenge is to add a new food to your daily diet. Find your go-to snack that you can grab when your co-workers break out the cupcakes and MMs. The key to this challenge is to pick a high-protein, no-sugar snack that will help you stay full between meals. Nuts, including almonds or cashews, are an excellent choice.</string>
+
+    <string name="day7">Day 7</string>
+    <string name="title7">Refresh: A 4-Minute Meditation Video</string>
+    <string name="description7">Today’s challenge is a mindful reward. We’ve got a four-minute meditation from Tara Brach, a psychologist, author and teacher of meditation.</string>
+
+    <string name="day8">Day 8</string>
+    <string name="title8">Move: Fuel Your Workout</string>
+    <string name="description8">As you build an exercise habit, you need to think about fuel. Eating before or after a workout is a personal decision based entirely on how you feel.</string>
+
+    <string name="day9">Day 9</string>
+    <string name="title9">Refresh: Phone-Free Lunch</string>
+    <string name="description9">Phones can be a great way to connect, but they can also be a source of distraction. This week, practice separating yourself from your phone for periods of time. Start with lunch. Leave your phone off and at your desk during your lunch hour.</string>
+
+    <string name="day10">Day 10</string>
+    <string name="title10">Move: Just Breathe</string>
+    <string name="description10">Today, make sure you focus on proper breathing. You should inhale on the easiest part of the exercise and exhale on the hardest part.</string>
+
+    <string name="day11">Day 11</string>
+    <string name="title11">Connect: Share a Song</string>
+    <string name="description11">Choose a song you love that you want to share with another person and ask them to do the same. Tell them why you are sharing it — does it make you think of them? Does it explain how you feel? Or does it bring back a great memory? Don’t just listen and forget it.</string>
+
+    <string name="day12">Day 12</string>
+    <string name="title12">Move: Workout in Style</string>
+    <string name="description12">Boost your workout style! You’re doing great: Why not reward yourself with some fun gear to keep you going? Invest in a nice yoga mat, a comfy tank top or new workout shorts.</string>
+
+    <string name="day13">Day 13</string>
+    <string name="title13">Nourish: Fatten Your Salad</string>
+    <string name="description13">Do you order salad when you really want something else on the menu? Today you’re going to love eating your salad because we’re going to fatten it up. Adding fat to a leafy salad makes the fat-soluable vitamins (Vitamins A, D, E and K ) and other nutrients more bio-available.</string>
+
+    <string name="day14">Day 14</string>
+    <string name="title14">Refresh: A Gratitude MeditationVideo</string>
+    <string name="description14">Today’s challenge will help you tap into your feelings of gratitude through an eight-minute guided gratitude meditation from the Hoffman Institute Foundation.</string>
+
+    <string name="day15">Day 15</string>
+    <string name="title15">Move: Find Your Soundtrack</string>
+    <string name="description15">To build an exercise habit, it helps to connect your workout with something fun that you can look forward to.</string>
+
+    <string name="day16">Day 16</string>
+    <string name="title16">Refresh: Mindful MorningsVideo
+</string>
+    <string name="description16">An easy way to practice mindfulness is to start each morning with a simple mindful moment. Today start with your morning tea or cup of coffee.</string>
+
+    <string name="day17">Day 17</string>
+    <string name="title17">Move: An Awareness Warm Up</string>
+    <string name="description17">Your body is getting stronger, so let’s try a new mindfulness exercise to get you over hump day this week. It’s a mindful awareness exercise that you can do any time of day.</string>
+
+    <string name="day18">Day 18</string>
+    <string name="title18">Connect: Storytime Challenge</string>
+    <string name="description18">Spend some time today thinking of a favorite short children’s book, a poem or an excerpt from one of your favorite books. Ask your partner to do the same. If you prefer, you can share this challenge with a teenager, child or best friend.</string>
+
+    <string name="day19">Day 19</string>
+    <string name="title19">Move: Just Dance</string>
+    <string name="description19">For your warm-up today, pick your favorite dance tune. Now play it, and start dancing! (Yes, I’m serious.) I want you to move, groove, bounce, bop and do whatever you do when you dance. Let yourself go. </string>
+
+    <string name="day20">Day 20</string>
+    <string name="title20">Nourish: Reverse Your Pasta</string>
+    <string name="description20">We all love pasta, but if you’re trying to cut carbs (and you should be) you may be skipping that favorite pasta dish or substituting spiralized vegetables for regular pasta. (Delicious, but not quite as good as the real thing.)</string>
+
+    <string name="day21">Day 21</string>
+    <string name="title21">Refresh: A Walking Meditation</string>
+    <string name="description21">Today I want you to grab some headphones and take your challenge out for a walk.</string>
+
+    <string name="day22">Day 22</string>
+    <string name="title22">Move: Set Your Intention</string>
+    <string name="description22">When you set an intention, you are creating a mindful map for your body to follow. What exactly is intention? As Deepak Chopra says: “Intention is the starting point of every dream.</string>
+
+    <string name="day23">Day 23</string>
+    <string name="title23">Refresh: Bedside Writing</string>
+    <string name="description23">Before you leave for work today, put a pen and paper beside your bed. It can be a simple notepad or something more fancy. Tonight before going to sleep, pick up the tablet and make lists of all the things you want to accomplish tomorrow.</string>
+
+    <string name="day24">Day 24</string>
+    <string name="title24">Move: Find Your Discomfort Zone</string>
+    <string name="description24">Today, try to push yourself during each exercise – you should feel discomfort but not pain. Remind yourself that each exercise is only 30 seconds. </string>
+
+    <string name="day25">Day 25</string>
+    <string name="title25">Connect: Your 4-Minute Life Story
+</string>
+    <string name="description25">Today your challenge will be to sit down with a partner, friend or loved one and tell your life story in just four minutes. Whomever you choose for this challenge will also tell you his or her life story in four minutes. </string>
+
+    <string name="day26">Day 26</string>
+    <string name="title26">Move: Give Yourself a Mindful Reward!</string>
+    <string name="description26">Congratulations! It’s Friday and you are well on your way to building an exercise habit. Before you start your workout today, think about something fun you want to do today and plan to reward yourself.</string>
+
+    <string name="day27">Day 27</string>
+    <string name="title27">Nourish: Breakfast Carb Challenge</string>
+    <string name="description27">People who adopt low-carb eating swear by it. It helps them lose weight and often it gives them more energy – no more midafternoon carb/sugar crashes.</string>
+
+    <string name="day28">Day 28</string>
+    <string name="title28">Refresh: A Loving-Kindness Meditation</string>
+    <string name="description28">Today’s reward is a Loving-Kindness Meditation, a centuries-old Buddhist practice which focuses on feelings of kindness, warmth and goodwill toward others and yourself.</string>
+
+    <string name="day29">Day 29</string>
+    <string name="title29">Move: The Finish Line Workout
+</string>
+    <string name="description29">Today, I want you incorporate everything you learned in the past four weeks to make your Move workouts more effective. </string>
+
+    <string name="day30">Day 30</string>
+    <string name="title30">Refresh: Look Back and Look Ahead</string>
+    <string name="description30">Do you remember your very first challenge? Your task was to write a letter to yourself, exploring your intentions and goals. Now your task is to find your letter, read it and update it.</string>
+</resources>
